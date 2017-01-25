@@ -1,2 +1,4 @@
 # SpringBeanStudy
 SpringBean学习笔记
+demo1 练习使用Junit 读取Xml中配置的Bean的信息，在使用工程之前需要先检查Java Build Path 中的Libraries所有jar 包是否正确
+JunitTestBas中配置了Junit测试用的基础类，其中包括Junit测试方法运行前和运行后执行的方法@before和@fate，还配置了通过BeanId和BeanClass得到Xml中Bean的方法，demo1Test中使用的xml为spring-bean.xml。
